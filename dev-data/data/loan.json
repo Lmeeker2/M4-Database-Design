@@ -1,0 +1,62 @@
+[
+  {
+    "id":"1",
+    "Loan_type":"finance",
+    "loan number":"1",
+    "amount":"10000",
+    "interest rate": 0.05,
+    "loan term": "4",
+    "start date": "01/01/2010",
+    "created date":"",
+    "modified date": "",
+    "is deleted": ""
+  },
+  {
+    "id":"2",
+    "Loan_type":"finance",
+    "loan number":"2",
+    "amount":"5000",
+    "interest rate": 0.08,
+    "loan term": "2",
+    "start date": "01/02/2015",
+    "created date":"",
+    "modified date": "",
+    "is deleted": ""
+  },
+  {
+    "id":"3",
+    "Loan_type":"finance",
+    "loan number":"3",
+    "amount":"15000",
+    "interest rate": 0.10,
+    "loan term": "5",
+    "start date": "01/04/2017",
+    "created date":"",
+    "modified date": "",
+    "is deleted": ""
+  },
+  {
+    "id":"4",
+    "Loan_type":"finance",
+    "loan number":"4",
+    "amount":"12000",
+    "interest rate": 0.08,
+    "loan term": "5",
+    "start date": "01/02/2016",
+    "created date":"",
+    "modified date": "",
+    "is deleted": ""
+  },
+ {
+  "id":"5",
+  "Loan_type":"finance",
+  "loan number":"5",
+  "amount":"10500",
+  "interest rate": 0.08,
+  "loan term": "8",
+  "start date": "05/05/2010",
+  "created date":"",
+  "modified date": "",
+  "is deleted": ""
+ }
+]

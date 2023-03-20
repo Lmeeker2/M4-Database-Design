@@ -1,0 +1,48 @@
+[
+    {
+      "id":"1",
+      "Payment amount":"500",
+      "interest": 0.05,
+      "principal": "1500",
+      "created date":"01/15/2015",
+      "modified date": "",
+      "is deleted": ""
+    },
+    {
+      "id":"2",
+      "loan number":"2",
+      "Payment amount":"600",
+      "interest": 0.08,
+      "principal": "2000",
+      "created date": "01/20/2015",
+      "modified date": "",
+      "is deleted": ""
+    },
+    {
+      "id":"3",
+      "Payment amount":"3000",
+      "interest": 0.10,
+      "principal": "1200",
+      "created date": "01/04/2017",
+      "modified date": "",
+      "is deleted": ""
+    },
+    {
+      "id":"4",
+      "Payment amount":"450",
+      "interest": 0.08,
+      "principal": "2000",
+      "created date": "06/06/2016",
+      "modified date": "",
+      "is deleted": ""
+    },
+   {
+    "id":"5",
+    "Payment amount":"10500",
+    "interest rate": 0.08,
+    "principal": "8000",
+    "created date":"06/20/2000",
+    "modified date": "",
+    "is deleted": ""
+   }
+  ]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "Name": "IFT 101",
+    "First Name": "Taylor",
+    "Last Name": "Swift",
+    "Date of Birth": "01/01/1989",
+    "Gender": "F",
+    "Created Date": "01/01/2015",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 2,
+    "Name": "IFT 102",
+    "First Name": "Selena",
+    "Last Name": "Gomez",
+    "Date of Birth": "01/02/1999",
+    "Gender": "F",
+    "Created Date": "01/02/2016",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 3,
+    "Name": "IFT 103",
+    "First Name": "Tom",
+    "Last Name": "Holland",
+    "Date of Birth": "01/03/2000",
+    "Gender": "M",
+    "Created Date": "01/03/2015",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 4,
+    "Name": "IFT 104",
+    "First Name": "Bob",
+    "Last Name": "Marley",
+    "Date of Birth": "01/01/1979",
+    "Gender": "M",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 5,
+    "Name": "IFT 105",
+    "First Name": "Jose",
+    "Last Name": "Valdominos",
+    "Date of Birth": "10/10/1960",
+    "Gender": "M",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 6,
+    "Name": "IFT 106",
+    "First Name": "Jose",
+    "Last Name": "Ruiz",
+    "Date of Birth": "09/05/1960",
+    "Gender": "M",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 5,
+    "Name": "IFT 322",
+    "First Name": "Anahy",
+    "Last Name": "Rivera",
+    "Date of Birth": "02/05/1979",
+    "Gender": "F",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 7,
+    "Name": "IFT 266",
+    "First Name": "Karina",
+    "Last Name": "Ortiz",
+    "Date of Birth": "02/02/2000",
+    "Gender": "F",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 8,
+    "Name": "IFT 166",
+    "First Name": "Sam",
+    "Last Name": "Quintanilla",
+    "Date of Birth": "05/05/1990",
+    "Gender": "F",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 9,
+    "Name": "IFT 110",
+    "First Name": "Billy",
+    "Last Name": "Hernandez",
+    "Date of Birth": "12/05/1980",
+    "Gender": "M",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  },
+  {
+    "id": 10,
+    "Name": "IFT 158",
+    "First Name": "Selena",
+    "Last Name": "Q",
+    "Date of Birth": "11/05/1980",
+    "Gender": "F",
+    "Created Date": "",
+    "Modified Date": "",
+    "Is Deleted": ""
+  }
+]

@@ -1,0 +1,21 @@
+const { default: mongoose } = require("mongoose")
+
+const mongoose = require('mongoose');
+
+const CustomerSchema = new mongoose.Schema({
+    ID: String,
+    Name: String,
+    FirstName: String,
+    LastName: String,
+    DateofBirth: Date,
+    Gender: String,
+    CreatedDate: Date,
+    ModifiedDate: Date,
+    IsDeleted: Date,
+},
+{
+    timestamps: { createdAt: 'Created_Date', updatedAt: 'Modified_Date' }
+});
+
+const customer = mongoose.model('Customer', customerSchema);
+module.exports = Customer;
